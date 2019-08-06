@@ -16,3 +16,4 @@ print(matplotlib.__version__)
 ```
 
 With the software packages out of the way, let's read in an image. How about this picture of a dog? 
+![From Wikipedia](/InlineImages/American_Eskimo_Dog.jpg)
