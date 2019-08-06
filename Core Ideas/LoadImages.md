@@ -37,5 +37,5 @@ cv2.destroyAllWindows()
 Here is a screenshot of the grayscale image displaying through Xming (the application is running remotely on my Pi 4):
 ![From Wikipedia](InlineImages/opencvbook_dog1.PNG)
 
-Note that there are some quirks associated with reading in an image in color. OpenCV represents color images in the BGR (blue, green, and red) format. This is not compliant with many other packages, which require RGB images. This is when you'll want to use 
+Note that there are some quirks associated with reading in an image of color. OpenCV represents color images in the BGR (blue, green, and red) format. This is not compliant with many other packages, which require RGB images. This is when you'll want to use 
 ```python out = cv2.cvtColor(in, cv2.BGR2RGB)```, where in is the input (BGR) image, and out is the resulting (RGB) image. 
