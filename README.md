@@ -1,4 +1,2 @@
-# RaspberryPiComputerVision
-Simple scripts + models available for all to use. 
-
-Will be adding tutorials and mathematical concepts soon!
+# Raspberry Pi Computer Vision
+Simple scripts, pre-trained models, and OpenCV tutorials free for all to use!
