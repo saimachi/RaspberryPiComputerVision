@@ -14,6 +14,6 @@ Guest Articles: Skilled computer vision engineers can write about their experien
 If you know anybody who makes a difference in the world of computer vision, please ask them if they would like to write a guest article! I will publish it under the "Guest Articles" folder for the world to see. 
 
 # Expected Release Schedule
-Post 2: Drawing Shapes and Text on Images: Article Completed, Released 8/8/2019
-Post 3: Image Encoding and manipulating ROIs: Released 8/9/2019 or 8/10/2019
+Post 2: Drawing Shapes and Text on Images: Article Completed, Released 8/8/2019 \n
+Post 3: Image Encoding and manipulating ROIs: Released 8/9/2019 or 8/10/2019 \n
 Post 4: More Image Operations: Released 8/10/2019 or 8/11/2019
