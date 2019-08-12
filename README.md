@@ -17,3 +17,5 @@ If you know anybody who makes a difference in the world of computer vision, plea
 Post 2: Drawing Shapes and Text on Images: Article Completed, Released 8/8/2019 \
 Post 3: Image Encoding and manipulating ROIs: Released 8/9/2019 or 8/10/2019 \
 Post 4: More Image Operations: Released 8/10/2019 or 8/11/2019
+
+Sorry everyone, a little bit behind! All articles will be released this week!
