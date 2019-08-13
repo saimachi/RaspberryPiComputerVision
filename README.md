@@ -19,3 +19,7 @@ Post 3: Image Encoding and manipulating ROIs: Released 8/9/2019 or 8/10/2019 \
 Post 4: More Image Operations: Released 8/10/2019 or 8/11/2019
 
 Sorry everyone, a little bit behind! All articles will be released this week!
+
+# Image Citations
+dog.jpg (for the ROI tutorial): guidedogs.org \
+306px-American_Eskimo_Dog.jpg (for the image loading tutorial): Wikimedia Commons
