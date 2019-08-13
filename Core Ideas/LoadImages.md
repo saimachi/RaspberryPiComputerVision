@@ -16,7 +16,7 @@ print(matplotlib.__version__)
 ```
 
 With the software packages out of the way, let's read in an image. How about this picture of a dog? 
-![From Wikipedia](InlineImages/306px-American_Eskimo_Dog.jpg)
+![From Wikimedia Commons](InlineImages/306px-American_Eskimo_Dog.jpg)
 
 To do this, we use ```python cv2.imread(_path_, _mode_)```, which reads the image at _path_ encoded in _mode_. _mode_ can be a variety of constants, including ```python cv2.IMREAD_COLOR```, which is the default argument for _mode_ and it loads the image in color. ```python cv2.IMREAD_GRAYSCALE``` represents the image in grayscale, where each pixel represents an intensity value between 0 and 255. Finally, ```python cv2.IMREAD_UNCHANGED```  not only loads the image in color, but also includes an alpha transparency value for each pixel. For now, let's just stick with grayscale images. To load an image called dog.jpg in grayscale from our current directory into a variable called image, issue ```python image = cv2.imread('dog.jpg', cv2.IMREAD_GRAYSCALE)```.
 
