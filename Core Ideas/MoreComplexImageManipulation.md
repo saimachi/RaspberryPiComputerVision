@@ -2,7 +2,7 @@ In the last article, we explored basic image manipulation with OpenCV, and intro
 
 Let's start by adding two images. For this example, we're going to need two images of the same size. Check the 'Code' folder for image examples. 
 
-Let's start by loading our two images into memory. OpenCV allows three methods to add images: \
+Let's start by loading our two images into memory. OpenCV allows three methods to add images: /
 	a. Using the cv2.add() function: given two input image matrices of the same shape, this function computes their element-wise sum. Note that a matrix and a scalar can be passed to this function, in which case the scalar is added to each element of the input matrix (on a per-channel basis). This operation saturates--in other words, if the sum of two values (a matrix value-scalar sum or matrix value-matrix value sum) is greater than 255, the output volume will represent that position with 255. \
 
 	b. Overloading the Python "+" operator: this operation is similar to the cv2.add() function, but does not saturate; instead, it takes each sum modulo 256. The first operand can be a matrix, while the second operand can be a matrix or a scalar. However, using this operator to add images in general is not recommended. \
