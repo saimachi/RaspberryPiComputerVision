@@ -21,5 +21,6 @@ Post 4: More Image Operations: Released 8/10/2019 or 8/11/2019
 Sorry everyone, a little bit behind! All articles will be released this week!
 
 # Image Citations
-dog.jpg (for the ROI tutorial): guidedogs.org \
+dog.jpg (for the ROI tutorial and some others): guidedogs.org \
 306px-American_Eskimo_Dog.jpg (for the image loading tutorial): Wikimedia Commons
+CatForAddition.jpg (for the More Complex Image Manipulation Tutorial): catfriendly.com
